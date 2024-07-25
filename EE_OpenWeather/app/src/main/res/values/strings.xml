@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EE_OpenWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="loc">Leipzig</string>
+    <string name="get_weather">Get Weather</string>
+</resources>
